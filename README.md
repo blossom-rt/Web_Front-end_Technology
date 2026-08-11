@@ -1,4 +1,4 @@
-# Web_Front-end_Technology
+# web_demo
 
 A simple page to try how to use GitHub.  
 
